@@ -1,4 +1,4 @@
-# Travel-Fly - Homework Four
+# Travel-Fly - Homework FIve
 
 ## Project Overview
 
@@ -17,6 +17,12 @@ Travel-Fly is a responsive travel booking website designed as part of a web deve
   - Special message field
 - **Responsive Design** - Built with SCSS for maintainable and scalable styling
 - **Footer** - Copyright information and social media links
+- **About Page** - Dedicated page with company information and details
+
+## Pages
+
+- **Home** - Main landing page with hero section, tour promotions, and booking form
+- **About** - Company information and background page
 
 ## Technologies Used
 
